@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCD5b88f296c068D8E632Fc7a651Bd824720f4A5F",
+  "SCAN_LINK": "https://bscscan.com/address/0xcd5b88f296c068d8e632fc7a651bd824720f4a5f",
+  "NETWORK": {
+    "NAME": "Binance smartchain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Harley Motorcycles",
+  "SYMBOL": "HMS",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Element",
+  "MARKETPLACE_LINK": "https://www.element.market/collections/harley-motorcycles",
+  "SHOW_BACKGROUND": true
+}
